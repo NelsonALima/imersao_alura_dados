@@ -6,7 +6,7 @@ import plotly.express as px
 st.set_page_config(page_title="Dashboard Salários", layout="wide")
 
 # Carrega os dados
-df = pd.read_csv("/home/nelsoncasa/Área de trabalho/projeto_imersao/dados_imersao.csv")
+df = pd.read_csv("dados_imersao.csv")
 
 # Filtros
 anos_disponiveis = sorted(df['ano'].unique())
