@@ -1,6 +1,8 @@
 # Dashboard de Análise de Dados - Imersão Alura
 ![Thumbnail do Dashboard](./dashboard.png)
 
+Clique aqui para abrir o dashboard -> [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://imersaoaluradados-nelson.streamlit.app/)
+
 É um dashboard interativo desenvolvido com **Streamlit** para analisar a distribuição salarial de cargos na area de dados, em dolar.
 
 ## Tecnologias
