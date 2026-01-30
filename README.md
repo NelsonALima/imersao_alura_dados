@@ -1,5 +1,5 @@
 # Dashboard de Análise de Dados - Imersão Alura
-
+![Thumbnail do Dashboard](./dashboard.png)
 
 É um dashboard interativo desenvolvido com **Streamlit** para analisar a distribuição salarial de cargos na area de dados, em dolar.
 
